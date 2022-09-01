@@ -17,7 +17,7 @@ a0 = 4*pi*e0*hbar^2/(m*e_c^2);
 
 %% Create Orthonormal Eigenfunction
 
-%Effective nucleus charge;
+%Effective nucleus charge (Tune)
 Z = N-0.4;
 
 r = sym('r',[1 N]);
